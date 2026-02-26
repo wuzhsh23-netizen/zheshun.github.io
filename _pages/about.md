@@ -22,7 +22,7 @@ My research interests lie broadly in **using machine learning theory to develop 
 
 * **Online Learning and Reinforcement Learning:** Robust multi-armed bandits, Provably sample-efficient reinforcement learning. 
 
-* * **Wireless Communications and Networking:** AI for communications, Wireless sensing and localization.
+*  **Wireless Communications and Networking:** AI for communications, Wireless sensing and localization.
 
 
 
