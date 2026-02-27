@@ -9,25 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science and Technology, Harbin Institute of Technology, Shenzheny, 2027 (expected)
-* M.S. in Information and Communication Engineering, Sun Yat-Sen University, 2023
-* B.S. in Information and Interaction Design, South China University of Technology, 2020
+# Education
+* **Ph.D. in Computer Science and Technology**, Harbin Institute of Technology, Shenzhen, 2027 (expected)
+* **M.S. in Information and Communication Engineering**, Sun Yat-sen University, 2023
+* **B.S. in Information and Interaction Design**, South China University of Technology, 2020
 
-Work experience
-======
-* Jan. 2026 - July 2026: Research Intern
+# Work Experience
+* **Jan. 2026 – July 2026: Research Intern**
   * Huawei Technologies Ltd.
   * Noah’s Ark Lab
   * Mentor: Dr. Yu Pan
 
-* Nov. 2024 - Sept. 2025: Visiting student
+* **Nov. 2024 – Sept. 2025: Visiting Student**
   * Southern University of Science and Technology
-  * the Department of Statistics and Data Science
+  * Department of Statistics and Data Science
   * Supervisor: Prof. Fang Kong
-
-
   
 
 
